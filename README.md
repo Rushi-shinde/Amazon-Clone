@@ -1,15 +1,3 @@
-# Amazon Clone in React, Tailwind CSS & Redux
-
-![amazon_clone_v6](https://user-images.githubusercontent.com/17878339/231386523-1b0f7bb9-b83d-4a3e-a1bf-12405ebebbd2.png)
-
-This repository contains an Amazon Clone with React, Tailwind CSS and Redux.
-
-## YouTube
-
-[Watch the Tutorial](https://youtu.be/pnnblIo1iO0)
-
-## Features
-
 ### Home Page
 
 Contains Carousel containing images and video:
@@ -44,4 +32,10 @@ git clone https://github.com/JonnyDavies/amazon-clone-frontend.git
 
 ```shell
 npm start
+```
+
+## Live link
+
+```shell
+
 ```
